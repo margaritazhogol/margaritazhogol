@@ -18,12 +18,20 @@
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CODESYS-005A9C?style=flat"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white"/> </p>
 
 📄 Publications & recognition
-Optimization of Gear Transmission and Shaft Parameters in Electromechanical Drives — New Trends in Science, Society and Technology, Melbourne — 🥇 1st Degree Award
-Digitalization of Higher Education: Key Trends and Results — Science, Technology on the Path to Sustainable Development — 🥇 1st Degree Award
-Additional publications on automatic control systems and computer modeling of DC motors (Bulgaria, USA, Russia)
+● Optimization of Gear Transmission and Shaft Parameters in Electromechanical Drives: Computational
+and Design Solutions — "New Trends in Science, Society and Technology" Conference, Melbourne,
+Australia — 1st Degree Award
+● Digitalization of Higher Education: Key Trends and Results — "Science, Technology on the Path to
+Sustainable Development" Conference (Feb 2026) — 1st Degree Award
+● Computer Modeling of DC Motors: How Precise Calculations Enhance Real-World Performance
+Characteristics — "Recent Scientific Investigation" Conference, Internauka, Shawnee, USA (Jul 2025)
+● Optimization of the Levitation Platform Inductor — "Science. Technology. Innovation" Collection, NSTU,
+Novosibirsk, Russia (Dec 2025)
+● Analysis and Synthesis of a Linear Automatic Control System — "Innovative Technologies" Conference,
+Burgas, Bulgaria (2025)
+● Stability Analysis of a Nonlinear Automatic Control System Using the Phase Plane Method — "Current
+Information Technologies" Conference, Moscow–Burgas (2025)
 
 📫 Get in touch. 
 Email: ritazhogolmail@gmail.com
 📄 Full CV [Margarita Zhogol CV Serbia.pdf](https://github.com/user-attachments/files/30581719/Margarita.Zhogol.CV.Serbia.pdf)
-<!-- replace with a link to your hosted CV/PDF if you want -->
-<!-- Tips for finishing this profile: 1. Replace YOUR_USERNAME below and uncomment if you'd like GitHub stats cards. 2. Pin the 2-3 repos you're proudest of (e.g. the checkout system, the bot) on your profile. 3. Add a short description + README to each pinned repo so recruiters see what it does at a glance. <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" /> </p> -->
