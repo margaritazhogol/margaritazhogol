@@ -5,7 +5,7 @@
 🐍 Professional retraining diploma in Applied Programming in Python, NSTU NETI     
 ⚙️ Engineering background gives me a strong foundation in precise, structured problem-solving — now applied to backend development and automation    
 🏭 Hands-on industrial automation experience: PLC programming (CODESYS V3.5), SCADA visualization, Modbus integration    
-🌍 Fluent in English (C1), presented at international engineering conferences (Australia, USA, Bulgaria)     
+🌍 Fluent in English (C1)  
 
 💻 Featured projects    
 
