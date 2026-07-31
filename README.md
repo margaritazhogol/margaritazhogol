@@ -8,33 +8,38 @@ Engineering background provides a strong foundation in precise, structured probl
 Hands-on industrial automation experience: PLC programming (CODESYS V3.5), SCADA visualization, Modbus integration.    
 Fluent in English (C1). 
 
-**💻 Featured projects**    
+**Featured projects**    
 
-🛒 Self-Service Checkout System — Python Tkinter JSON Desktop simulation of a self-checkout with role-based access: customers browse products, build a cart and pay, while staff manage inventory through an authenticated admin panel. Includes input validation, stock-overselling protection, and JSON-based data persistence. Authored the full technical report covering architecture, algorithms, and testing       
+Self-Service Checkout System — Python Tkinter JSON Desktop simulation of a self-checkout with role-based access: customers browse products, build a cart and pay, while staff manage inventory through an authenticated admin panel. Includes input validation, stock-overselling protection, and JSON-based data persistence. Authored the full technical report covering architecture, algorithms, and testing       
 
-🤖 Psychological Assessment Bot — Python Telegram Bot API Led a team of 6 as team lead & core developer, building a Telegram bot for psychological stress diagnostics among students — from concept and questionnaire design to release. Wrote the core dialogue logic and response handling; tested with ~150 real users and iterated based on feedback    
+Psychological Assessment Bot — Python Telegram Bot API Led a team of 6 as team lead & core developer, building a Telegram bot for psychological stress diagnostics among students — from concept and questionnaire design to release. Wrote the core dialogue logic and response handling; tested with ~150 real users and iterated based on feedback    
 
-⚙️ Educational DC Motor Prototype — AutoCAD Fusion 360 Contributed engineering calculations, mechanical design, and prototype assembly for a laboratory DC motor model, plus supporting technical documentation     
+Educational DC Motor Prototype — AutoCAD Fusion 360 Contributed engineering calculations, mechanical design, and prototype assembly for a laboratory DC motor model, plus supporting technical documentation     
 
-**🛠️ Tech stack**     
+**Tech stack**     
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CODESYS-005A9C?style=flat"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white"/> </p>
 
-**📄 Publications & recognition**
+**Publications & recognition**
 
 Optimization of Gear Transmission and Shaft Parameters in Electromechanical Drives: Computational
 and Design Solutions — "New Trends in Science, Society and Technology" Conference, Melbourne,
-Australia — 1st Degree Award        
+Australia — 1st Degree Award  
+
 Digitalization of Higher Education: Key Trends and Results — "Science, Technology on the Path to
-Sustainable Development" Conference (Feb 2026) — 1st Degree Award         
+Sustainable Development" Conference (Feb 2026) — 1st Degree Award    
+
 Computer Modeling of DC Motors: How Precise Calculations Enhance Real-World Performance
-Characteristics — "Recent Scientific Investigation" Conference, Internauka, Shawnee, USA (Jul 2025)      
+Characteristics — "Recent Scientific Investigation" Conference, Internauka, Shawnee, USA (Jul 2025)  
+
 Optimization of the Levitation Platform Inductor — "Science. Technology. Innovation" Collection, NSTU,
 Novosibirsk, Russia (Dec 2025)     
+
 Analysis and Synthesis of a Linear Automatic Control System — "Innovative Technologies" Conference,
-Burgas, Bulgaria (2025)      
+Burgas, Bulgaria (2025)  
+
 Stability Analysis of a Nonlinear Automatic Control System Using the Phase Plane Method — "Current
 Information Technologies" Conference, Moscow–Burgas (2025)     
 
-**📫 Get in touch**.   
+**Get in touch**.   
 Email: ritazhogolmail@gmail.com
 📄 Full CV [Margarita Zhogol CV Serbia.pdf](https://github.com/user-attachments/files/30581719/Margarita.Zhogol.CV.Serbia.pdf)
