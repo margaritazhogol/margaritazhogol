@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Margarita Zhogol 👋</h1> <p align="center">Junior Python Developer · Backend & Automation · Electrical Engineering background</p> <p align="center"> <a href="mailto:ritazhogolmail@gmail.com"><img src="https://img.shields.io/badge/Email-ritazhogolmail%40gmail.com-informational?style=flat&logo=gmail&color=EA4335"/></a> <img src="https://img.shields.io/badge/English-C1-blue"/> <img src="https://img.shields.io/badge/Open%20to-Junior%20Python%20roles-brightgreen"/> </p>
-🚀 About me    
+
+🚀 About me  
 🎓 B.Sc. in Electrical Power Engineering & Electrical Engineering, Novosibirsk State Technical University (NSTU NETI) — Diploma with Honors, GPA 4.75/5.00 (2022–2026)    
 🐍 Professional retraining diploma in Applied Programming in Python, NSTU NETI     
 ⚙️ Engineering background gives me a strong foundation in precise, structured problem-solving — now applied to backend development and automation    
