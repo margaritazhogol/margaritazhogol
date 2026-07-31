@@ -18,7 +18,7 @@
 🛠️ Tech stack     
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CODESYS-005A9C?style=flat"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white"/> </p>
 
-📄 Publications & recognition. 
+📄 Publications & recognition
 Optimization of Gear Transmission and Shaft Parameters in Electromechanical Drives — New Trends in Science, Society and Technology, Melbourne — 🥇 1st Degree Award
 Digitalization of Higher Education: Key Trends and Results — Science, Technology on the Path to Sustainable Development — 🥇 1st Degree Award
 Additional publications on automatic control systems and computer modeling of DC motors (Bulgaria, USA, Russia)
