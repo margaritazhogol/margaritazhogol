@@ -35,6 +35,6 @@ Burgas, Bulgaria (2025)
 Stability Analysis of a Nonlinear Automatic Control System Using the Phase Plane Method — "Current
 Information Technologies" Conference, Moscow–Burgas (2025)     
 
-**📫 Get in touch.**.   
+**📫 Get in touch**.   
 Email: ritazhogolmail@gmail.com
 📄 Full CV [Margarita Zhogol CV Serbia.pdf](https://github.com/user-attachments/files/30581719/Margarita.Zhogol.CV.Serbia.pdf)
