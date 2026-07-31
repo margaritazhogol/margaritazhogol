@@ -25,5 +25,6 @@ Additional publications on automatic control systems and computer modeling of DC
 
 📫 Get in touch. 
 Email: ritazhogolmail@gmail.com
-📄 Full CV <!-- replace with a link to your hosted CV/PDF if you want -->
+📄 Full CV [Margarita Zhogol CV Serbia.pdf](https://github.com/user-attachments/files/30581719/Margarita.Zhogol.CV.Serbia.pdf)
+<!-- replace with a link to your hosted CV/PDF if you want -->
 <!-- Tips for finishing this profile: 1. Replace YOUR_USERNAME below and uncomment if you'd like GitHub stats cards. 2. Pin the 2-3 repos you're proudest of (e.g. the checkout system, the bot) on your profile. 3. Add a short description + README to each pinned repo so recruiters see what it does at a glance. <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" /> </p> -->
